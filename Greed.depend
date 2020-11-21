@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1604450022 source:c:\users\pablo\desktop\prueba\greed\main.cpp
+	<iostream>
+	"Funciones.h"
+
+1604450067 c:\users\pablo\desktop\prueba\greed\funciones.h
+
+1605728417 source:c:\users\pablo\desktop\utn\repo\lab_1\greed\main.cpp
+	<iostream>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1605728691 c:\users\pablo\desktop\utn\repo\lab_1\greed\funciones.h
+
+1604586557 source:e:\ejerciciosutn\lab_1\greed\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1605555641 e:\ejerciciosutn\lab_1\greed\funciones.h
+
+1604590610 e:\ejerciciosutn\lab_1\greed\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605554828 source:e:\ejerciciosutn\lab_1\greed\main.cpp
+	<iostream>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1605555873 source:c:\users\chave\desktop\pruebas codeblocks\parcial2\greed\funciones.cpp
+	<iostream>
+	<clocale>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1605555641 c:\users\chave\desktop\pruebas codeblocks\parcial2\greed\funciones.h
+
+1605554828 source:c:\users\chave\desktop\pruebas codeblocks\parcial2\greed\main.cpp
+	<iostream>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
+1604590610 c:\users\chave\desktop\pruebas codeblocks\parcial2\greed\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605728137 source:c:\users\pablo\desktop\utn\repo\lab_1\greed\funciones.cpp
+	<iostream>
+	<clocale>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+
+1604627781 c:\users\pablo\desktop\utn\repo\lab_1\greed\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605917267 source:e:\tpintegrador\greed\greed\funciones.cpp
+	<iostream>
+	<clocale>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	<windows.h>
+
+1605917227 e:\tpintegrador\greed\greed\funciones.h
+
+1605575995 e:\tpintegrador\greed\greed\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1605728692 source:e:\tpintegrador\greed\greed\main.cpp
+	<iostream>
+	"Funciones.h"
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+
